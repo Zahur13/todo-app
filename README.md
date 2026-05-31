@@ -22,7 +22,7 @@ A simple, elegant to-do list application with local storage persistence.
    ```bash
    python3 -m http.server 8000
    ```
-4. Open `http://localhost:8000` in your browser
+4. Open `https://zed-todo-app.vercel.app/` in your browser
 
 ## Technologies Used
 
